@@ -1,4 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=setyantyuda)](https://git.io/streak-stats)
 <h1>
     Hi everyone!
 </h1>
