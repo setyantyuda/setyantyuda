@@ -1,7 +1,10 @@
 <h1>
-    Hi everyone! my name is Bayu, i’m a Front End Engineer with experience in web development. 
-    I’m passionate to challenge myself for something new, and likely to work together as a team to achieve a target.
+    Hi everyone!
 </h1>
+<h3>
+    My name is Bayu, i’m a Front End Engineer with experience in web development. 
+    I’m passionate to challenge myself for something new, and likely to work together as a team to achieve a target.
+</h3>
 <a href="https://github.com/setyantyuda">
     <img alt="Git Stats" 
         src="https://github-readme-stats.vercel.app/api?username=setyantyuda&count_private=true&include_all_commits=true&show_icons=true&theme=onedark" 
