@@ -32,7 +32,7 @@
 </br>
 </br>
 
-<p>Please don't hesitate to contact me directly, I'm really eager to collaborate with you.</p>
+<p>Don't hesitate to contact me directly, I'm really eager to collaborate with you.</p>
 
 <samp>
   <a href="https://instagram.com/im.yourtype">Instagram</a> . 
