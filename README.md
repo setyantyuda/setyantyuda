@@ -15,5 +15,5 @@
 <p>Please don't hesitate to contact me directly, I'm really eager to collaborate with you.</p>
 <samp>
   <a href="https://instagram.com/im.yourtype">Instagram</a> . 
-  <a href="https://wa.me/082211768786">Whatsapp</a> . 
+  <a href="https://wa.me/6282211768786">Whatsapp</a> . 
 </samp>
