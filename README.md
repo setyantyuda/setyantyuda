@@ -32,7 +32,7 @@
 </br>
 </br>
 
-<a href="setyantyuda-porto.vercel.app" target="_blank" rel="noreferrer">My Portofolio</a>
+<a href="https://setyantyuda-porto.vercel.app/" target="_blank" rel="noreferrer">My Portofolio</a>
 
 <p>Don't hesitate to contact me directly, I'm really eager to collaborate with you.</p>
 
