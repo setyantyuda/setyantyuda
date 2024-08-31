@@ -32,11 +32,11 @@
 </br>
 </br>
 
-<a href="https://setyantyuda-porto.vercel.app/" target="_blank" rel="noreferrer">My Portofolio</a>
+<a href="https://setyantyuda.vercel.app/" target="_blank" rel="noreferrer">My Portofolio</a>
 
 <p>Don't hesitate to contact me directly, I'm really eager to collaborate with you.</p>
 
 <samp>
-  <a href="https://instagram.com/im.yourtype">Instagram</a> . 
+  <a href="https://www.linkedin.com/in/bayu-setyantyuda/">LinkedIn</a> . 
   <a href="https://wa.me/6282211768786">Whatsapp</a> . 
 </samp>
